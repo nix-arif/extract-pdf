@@ -11,6 +11,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"csv": "^6.0.5",
 		"express": "^4.17.2",
 		"nodemon": "^2.0.15",
 		"pdf.js-extract": "^0.1.5",
